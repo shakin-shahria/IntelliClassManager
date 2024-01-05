@@ -1,0 +1,213 @@
+
+*{
+  padding: 0;
+  margin: 0;
+
+}
+
+nav{
+position: fixed;
+background-color: skyblue;
+height: 70px;
+width: 100%;
+z-index: 1;
+}
+
+.logo{
+font-size: 25px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+position: relative;
+left: 5%;
+color:white;
+font-weight: bold;
+line-height: 70px;
+
+}
+ul{
+   position: relative;
+   float: right;
+   margin-right: 20px;
+}
+ul li{
+
+display: inline-block;
+line-height: 70px;
+margin:0;
+
+}
+
+ul li a{
+
+    color:white;
+    font-size: 17px;
+    text-decoration: none;
+}
+.img1{
+width: 100%;
+height: 300px;
+}
+.section1{
+
+  padding-top: 70px;
+}
+.img1_text{
+
+  position:absolute;
+  top: 40%;
+  left: 40%;
+  color: white;
+  background-color: midnightblue;
+  padding-right: 20px ;
+  padding-left: 20px;
+  font-size: 35px;
+
+
+}
+.img2{
+
+width: 100%;
+height: 250px;
+
+}
+.container{
+padding-top: 70px;
+
+}
+.img3{
+  width:100%;
+  height: 250px;
+  
+}
+.img4{
+
+  width:100%;
+  height: 250px;
+}
+.label_txt{
+
+ display: inline-block;
+ margin-bottom: 10px;
+ font-weight: bold;
+ text-align: right;
+ width: 100px;
+ }
+
+.input_des{
+  
+  width: 30%;
+  height: 40px;
+  border-radius: 20px;
+  border:1px solid blue;
+
+}
+.adm_in{
+
+padding-top: 10px;
+
+}
+
+.msg{
+  
+  width: 30%;
+  height: 140px;
+  
+  border:1px solid blue;
+
+}
+
+#submit{
+
+position: relative;
+width: 15%;
+left: 5%;
+
+
+}
+
+footer{
+
+background-color: black;
+height: 70px;
+width: 100%;
+position: relative;
+z-index: 1;
+bottom: 0;
+
+}
+.footer_txt{
+
+ position: relative;
+ text-align: center;
+ color: white;
+ font-size: 18px;
+ top: 20px;
+
+
+}
+
+.adm{
+padding-top: 30px;
+padding-bottom: 30px;
+
+}
+.log_des{
+
+background-color: aquamarine;
+width: 400px;
+padding-top: 70px;
+padding-bottom: 70px;
+
+}
+.log_des{
+   background-color: skyblue;
+   color: black;
+   text-align: center;
+   
+
+
+}
+.uname{
+  display: inline-block;
+  color: white;
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.form_des{
+  padding-top: 200px;
+
+}
+
+.user{
+  padding-bottom: 10px;
+}
+.log_center{
+
+  background-color: gray;
+  color:white;
+  padding-bottom: 5px;
+  width: 400px ;
+  font-weight: bold;
+}
+.bg{
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.lodin_footer{
+
+    background-color: black;
+    height: 70px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+
+}
+.nav_opt{
+
+  padding-right: 10px;
+  
+
+
+}
